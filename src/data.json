@@ -1,0 +1,562 @@
+[
+    {
+        "date": "2020-06-01",
+        "customer_name": "MD. Rafiqul Islam",
+        "product": "EagleCam",
+        "district": "Rangpur",
+        "customer_work_area": "Logistics",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "Syed Ishtiyak ahmed",
+        "product": "CarTracker",
+        "district": "Chittagong",
+        "customer_work_area": "FMCG",
+        "order_quantity": 1
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Mohammad Rounak Hasan",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "ABM Maidul Islam",
+        "product": "EagleCam",
+        "district": "Chittagong",
+        "customer_work_area": "Telecom",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "MD. Musa",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Logistics",
+        "order_quantity": 1
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "AKM Nafisul Islam",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "Logistics",
+        "order_quantity": 7
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "MD. Ishtiyak ahmed",
+        "product": "EagleCam",
+        "district": "Sylhet",
+        "customer_work_area": "FMCG",
+        "order_quantity": 6
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "MD. Salehin",
+        "product": "AssetLock",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "ABM Anisul Haque",
+        "product": "MotoTracker",
+        "district": "Chittagong",
+        "customer_work_area": "FMCG",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "Syed Ishtiyak ahmed",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 2
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "Syed Shmim Hasan",
+        "product": "MotoTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "AKM Mustak Ahamed",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "Sheikh Salehin",
+        "product": "MotoTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 7
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "MD. Rafiqul Islam",
+        "product": "AssetLock",
+        "district": "Dhaka",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "Syed Belal hussain",
+        "product": "AssetLock",
+        "district": "Rangpur",
+        "customer_work_area": "Logistics",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "ABM Rounak Hasan",
+        "product": "CarTracker",
+        "district": "Sylhet",
+        "customer_work_area": "Delivery",
+        "order_quantity": 2
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "MD. Mustak Ahamed",
+        "product": "AssetLock",
+        "district": "Dhaka",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "AKM Ishtiyak ahmed",
+        "product": "CarTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Telecom",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Sheikh Ismail Hussain",
+        "product": "MotoTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Logistics",
+        "order_quantity": 1
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "ABM Salehin",
+        "product": "MotoTracker",
+        "district": "Sylhet",
+        "customer_work_area": "Delivery",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "ABM Omar Hisham",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "Mohammad Khairul Bashar",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "FMCG",
+        "order_quantity": 2
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Mohammad Anisul Haque",
+        "product": "CarTracker",
+        "district": "Dhaka",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "AKM Aminul Islam",
+        "product": "AssetLock",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 6
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "Mohammad Belayet Hussain",
+        "product": "CarTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Logistics",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Mohammad Khairul Bashar",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "Mohammad Mustak Ahamed",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "Delivery",
+        "order_quantity": 7
+    },
+    {
+        "date": "2020-06-03",
+        "customer_name": "Mohammad Kayyum",
+        "product": "EagleCam",
+        "district": "Chittagong",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "ABM Ismail Hussain",
+        "product": "AssetLock",
+        "district": "Chittagong",
+        "customer_work_area": "FMCG",
+        "order_quantity": 9
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "Sheikh Omar Hisham",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 2
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "Syed Rounak Hasan",
+        "product": "EagleCam",
+        "district": "Rangpur",
+        "customer_work_area": "Telecom",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "Syed Belal hussain",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "Logistics",
+        "order_quantity": 2
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "Syed Rounak Hasan",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 7
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "Syed Ishtiyak ahmed",
+        "product": "AssetLock",
+        "district": "Chittagong",
+        "customer_work_area": "Telecom",
+        "order_quantity": 1
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "ABM Abdur Rahman",
+        "product": "EagleCam",
+        "district": "Sylhet",
+        "customer_work_area": "Delivery",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "Khondokar Maidul Islam",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "Telecom",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "Mohammad Ismail Hussain",
+        "product": "EagleCam",
+        "district": "Chittagong",
+        "customer_work_area": "Telecom",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-05",
+        "customer_name": "Sheikh Maidul Islam",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "FMCG",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "Mohammad Abdur Rahman",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Telecom",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-05",
+        "customer_name": "MD. Muhit",
+        "product": "EagleCam",
+        "district": "Sylhet",
+        "customer_work_area": "FMCG",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "AKM Kayyum",
+        "product": "CarTracker",
+        "district": "Dhaka",
+        "customer_work_area": "Delivery",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "Khondokar Musa",
+        "product": "MotoTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Delivery",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "ABM Aminul Islam",
+        "product": "AssetLock",
+        "district": "Dhaka",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Syed Musa",
+        "product": "EagleCam",
+        "district": "Sylhet",
+        "customer_work_area": "Delivery",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Syed Maidul Islam",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 9
+    },
+    {
+        "date": "2020-06-05",
+        "customer_name": "ABM Salehin",
+        "product": "CarTracker",
+        "district": "Dhaka",
+        "customer_work_area": "Delivery",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "Khondokar Belal hussain",
+        "product": "AssetLock",
+        "district": "Dhaka",
+        "customer_work_area": "Logistics",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "MD. Rafiqul Islam",
+        "product": "MotoTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-05",
+        "customer_name": "ABM Shmim Hasan",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "ABM Musa",
+        "product": "CarTracker",
+        "district": "Dhaka",
+        "customer_work_area": "Delivery",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "MD. Kayyum",
+        "product": "EagleCam",
+        "district": "Chittagong",
+        "customer_work_area": "Logistics",
+        "order_quantity": 9
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "MD. Rafiul Amin",
+        "product": "CarTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Delivery",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Sheikh Belayet Hussain",
+        "product": "EagleCam",
+        "district": "Sylhet",
+        "customer_work_area": "Logistics",
+        "order_quantity": 7
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Mohammad Aminul Islam",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "FMCG",
+        "order_quantity": 9
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "Sheikh Rounak Hasan",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "Logistics",
+        "order_quantity": 2
+    },
+    {
+        "date": "2020-06-03",
+        "customer_name": "Syed Maidul Islam",
+        "product": "CarTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "Syed Rafiul Amin",
+        "product": "CarTracker",
+        "district": "Chittagong",
+        "customer_work_area": "Delivery",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-07",
+        "customer_name": "AKM Salehin",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "FMCG",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "MD. Abdur Rahman",
+        "product": "CarTracker",
+        "district": "Dhaka",
+        "customer_work_area": "Delivery",
+        "order_quantity": 4
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "AKM Nafisul Islam",
+        "product": "MotoTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 7
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "Syed Muhit",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "Telecom",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-05-30",
+        "customer_name": "Mohammad Maidul Islam",
+        "product": "CarTracker",
+        "district": "Rangpur",
+        "customer_work_area": "Sales & Distribution",
+        "order_quantity": 8
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "MD. Mustak Ahamed",
+        "product": "EagleCam",
+        "district": "Dhaka",
+        "customer_work_area": "FMCG",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-01",
+        "customer_name": "MD. Abdur Rahman",
+        "product": "MotoTracker",
+        "district": "Rangpur",
+        "customer_work_area": "FMCG",
+        "order_quantity": 9
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "MD. Shmim Hasan",
+        "product": "EagleCam",
+        "district": "Rangpur",
+        "customer_work_area": "Telecom",
+        "order_quantity": 10
+    },
+    {
+        "date": "2020-06-06",
+        "customer_name": "ABM Rashidul Haque",
+        "product": "EagleCam",
+        "district": "Chittagong",
+        "customer_work_area": "Telecom",
+        "order_quantity": 5
+    },
+    {
+        "date": "2020-06-03",
+        "customer_name": "ABM Ashraful",
+        "product": "EagleCam",
+        "district": "Rangpur",
+        "customer_work_area": "Delivery",
+        "order_quantity": 6
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "Sheikh Ashraful",
+        "product": "AssetLock",
+        "district": "Sylhet",
+        "customer_work_area": "FMCG",
+        "order_quantity": 6
+    },
+    {
+        "date": "2020-06-02",
+        "customer_name": "ABM Ashraful",
+        "product": "AssetLock",
+        "district": "Dhaka",
+        "customer_work_area": "FMCG",
+        "order_quantity": 3
+    },
+    {
+        "date": "2020-06-04",
+        "customer_name": "AKM Ishtiyak ahmed",
+        "product": "EagleCam",
+        "district": "Chittagong",
+        "customer_work_area": "FMCG",
+        "order_quantity": 4
+    }
+]
