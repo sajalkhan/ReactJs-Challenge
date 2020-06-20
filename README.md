@@ -2,13 +2,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `npm install`
 In the project directory, you can run:
-
 ### `npm start`
-
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+![1](https://user-images.githubusercontent.com/18021576/85193802-2e2e4900-b2ed-11ea-9d39-201d57ccd70b.PNG) <br/>
+
+Preview 1
+
+![2](https://user-images.githubusercontent.com/18021576/85193909-62a20500-b2ed-11ea-9e1a-2602d0c3ff10.PNG) <br/>
+
+Preview 2
+
+![3](https://user-images.githubusercontent.com/18021576/85194140-10adaf00-b2ee-11ea-801b-f19595ed1cca.PNG) <br/>
+
+Preview 3
+
+![4](https://user-images.githubusercontent.com/18021576/85194150-2de27d80-b2ee-11ea-91bb-df081d7b2123.PNG) <br/>
+
+preview 4 <br/>
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
@@ -66,3 +80,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+username: dingiuser
+password: 12345678
